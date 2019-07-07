@@ -7,3 +7,5 @@ print ("  how")
 print ("   is")
 print ("    life")
 print("      ?")
+message'''
+hElLo tHeRe
